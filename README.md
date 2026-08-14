@@ -21,10 +21,10 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,611 | 🐛 348 | 🌐 JavaScript | 📅 2026-08-12 - Display dynamic, automatically organised, customizable network views.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,611 | 🐛 349 | 🌐 JavaScript | 📅 2026-08-13 - Display dynamic, automatically organised, customizable network views.
 * [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,540 | 🐛 300 | 🌐 JavaScript | 📅 2026-08-12 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-11 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-11 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-14 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
+* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-13 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
 ### vis.js based libraries
 
@@ -49,13 +49,13 @@
 
 #### Angular
 
-* [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-13 - An angular 5+ vis.js project.
+* [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 73 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-14 - An angular 5+ vis.js project.
 * [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2020-10-22 - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
 
 #### Misc
 
 * [neovis.js](https://github.com/neo4j-contrib/neovis.js) ⭐ 1,786 | 🐛 59 | 🌐 TypeScript | 📅 2023-10-19 - Graph visualizations powered by vis.js with data from Neo4j.
-* [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 563 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - R package, using vis.js library for network visualization
+* [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 564 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - R package, using vis.js library for network visualization
 * [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 * [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
 * [CHAP Links](https://almende.github.io/chap-links-library/) - The vis.js predecessor library.
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
