@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:09:02Z",
+            "last_commit": "2026-08-14T17:38:09Z",
             "owner": "visjs",
             "repo": "vis-network",
-            "stars": 3611
+            "stars": 3610
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T15:55:53Z",
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2540
+            "stars": 2541
           }
         },
         {
@@ -112,7 +112,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T04:06:46Z",
+            "last_commit": "2026-08-15T06:13:25Z",
             "owner": "visjs",
             "repo": "ngx-vis",
             "stars": 73
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:30:37.894Z",
+    "last_updated": "2026-08-15T08:49:53.766Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
     "enhanced_repository": "enhansome/enhansome-visjs",
