@@ -112,7 +112,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:45:47Z",
+            "last_commit": "2026-08-18T05:02:51Z",
             "owner": "visjs",
             "repo": "ngx-vis",
             "stars": 73
@@ -149,7 +149,7 @@
             "last_commit": "2023-10-19T02:43:51Z",
             "owner": "neo4j-contrib",
             "repo": "neovis.js",
-            "stars": 1786
+            "stars": 1787
           }
         },
         {
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:04:57.667Z",
+    "last_updated": "2026-08-18T08:58:37.893Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
     "enhanced_repository": "enhansome/enhansome-visjs",
