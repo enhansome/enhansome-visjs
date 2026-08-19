@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197249796,
             "language": "JavaScript",
             "last_commit": "2026-08-14T17:38:09Z",
             "owner": "visjs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197730309,
             "language": "JavaScript",
             "last_commit": "2026-08-12T15:55:53Z",
             "owner": "visjs",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197192526,
             "language": "JavaScript",
             "last_commit": "2026-08-17T04:41:27Z",
             "owner": "visjs",
@@ -52,171 +55,138 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196645438,
             "language": "TypeScript",
             "last_commit": "2026-08-17T04:44:51Z",
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 119
           }
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "react-graph-vis",
+                  "description": "A react component to render NETWORK graphs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33658802,
+                    "language": "JavaScript",
+                    "last_commit": "2023-10-12T09:43:01Z",
+                    "owner": "crubier",
+                    "repo": "react-graph-vis",
+                    "stars": 992
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "react-graph3d-vis",
+                  "description": "A react component to create interactive 3d graphs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158399297,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-10T03:02:57Z",
+                    "owner": "Auquan",
+                    "repo": "react-graph3d-vis",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "React"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ngx-vis",
+                  "description": "An angular 5+ vis.js project.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 109109615,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T04:29:24Z",
+                    "owner": "visjs",
+                    "repo": "ngx-vis",
+                    "stars": 73
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "timeline-dep-graph",
+                  "description": "Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 297938445,
+                    "language": "TypeScript",
+                    "last_commit": "2020-10-22T09:09:20Z",
+                    "owner": "SarAhmed",
+                    "repo": "timeline-dep-graph",
+                    "stars": 13
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Angular"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "neovis.js",
+                  "description": "Graph visualizations powered by vis.js with data from Neo4j.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55628517,
+                    "language": "TypeScript",
+                    "last_commit": "2023-10-19T02:43:51Z",
+                    "owner": "neo4j-contrib",
+                    "repo": "neovis.js",
+                    "stars": 1787
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "visNetwork",
+                  "description": "R package, using vis.js library for network visualization",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34519310,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-15T13:52:15Z",
+                    "owner": "datastorm-open",
+                    "repo": "visNetwork",
+                    "stars": 564
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "vis.js based libraries"
         }
       ],
       "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "vis.js based libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "react-graph-vis",
-          "description": "A react component to render NETWORK graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-12T09:43:01Z",
-            "owner": "crubier",
-            "repo": "react-graph-vis",
-            "stars": 992
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "react-graph3d-vis",
-          "description": "A react component to create interactive 3d graphs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-10T03:02:57Z",
-            "owner": "Auquan",
-            "repo": "react-graph3d-vis",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "React"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ngx-vis",
-          "description": "An angular 5+ vis.js project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T05:02:51Z",
-            "owner": "visjs",
-            "repo": "ngx-vis",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "timeline-dep-graph",
-          "description": "Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-10-22T09:09:20Z",
-            "owner": "SarAhmed",
-            "repo": "timeline-dep-graph",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Angular"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "neovis.js",
-          "description": "Graph visualizations powered by vis.js with data from Neo4j.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-10-19T02:43:51Z",
-            "owner": "neo4j-contrib",
-            "repo": "neovis.js",
-            "stars": 1787
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "visNetwork",
-          "description": "R package, using vis.js library for network visualization",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-15T13:52:15Z",
-            "owner": "datastorm-open",
-            "repo": "visNetwork",
-            "stars": 564
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Alternatives"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Showcases"
-    },
-    {
-      "description": "https://starcitizen.center/route-planner\nThis interactive route planner and map for the SciFi Universe StarCitize makes use of graph features such as physics enabled on links, manual persistent positions for the nodes (user can make custom layouts), and custom icons based on the logic.",
-      "items": [],
-      "title": "Star Citizen Route Planner"
-    },
-    {
-      "description": "https://thomaash.github.io/me/\nSDN topology editor in your web browser with Mininet, image and addressing plan export.",
-      "items": [],
-      "title": "Mininet Editor"
-    },
-    {
-      "description": "https://github.com/emsk/skyebridge\nFlow diagram generator",
-      "items": [],
-      "title": "Skyebridge"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Misc"
-    },
-    {
-      "description": "See the Contribution Guide for details on how to contribute.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "See the Code of Conduct for details. Basically, it comes down to:",
-      "items": [],
-      "title": "Code of Conduct"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. License holders are all contributors.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:58:37.893Z",
+    "last_updated": "2026-08-19T09:00:02.177Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
     "enhanced_repository": "enhansome/enhansome-visjs",
