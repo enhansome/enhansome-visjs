@@ -12,10 +12,10 @@
             "archived": false,
             "id": 197249796,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T16:52:14Z",
+            "last_commit": "2026-08-21T06:47:41Z",
             "owner": "visjs",
             "repo": "vis-network",
-            "stars": 3613
+            "stars": 3614
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 197730309,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T15:55:53Z",
+            "last_commit": "2026-08-20T17:16:55Z",
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2544
+            "stars": 2548
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 196645438,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T04:44:51Z",
+            "last_commit": "2026-08-20T17:01:48Z",
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 119
@@ -113,7 +113,7 @@
                     "archived": false,
                     "id": 109109615,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T08:44:22Z",
+                    "last_commit": "2026-08-21T06:16:44Z",
                     "owner": "visjs",
                     "repo": "ngx-vis",
                     "stars": 73
@@ -186,7 +186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:01:05.584Z",
+    "last_updated": "2026-08-21T09:02:50.222Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_id": 196971630,
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
