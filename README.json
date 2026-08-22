@@ -12,10 +12,10 @@
             "archived": false,
             "id": 197249796,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T06:47:41Z",
+            "last_commit": "2026-08-21T22:24:48Z",
             "owner": "visjs",
             "repo": "vis-network",
-            "stars": 3614
+            "stars": 3615
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 197730309,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T17:16:55Z",
+            "last_commit": "2026-08-22T04:40:12Z",
             "owner": "visjs",
             "repo": "vis-timeline",
             "stars": 2548
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 197192526,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T04:41:27Z",
+            "last_commit": "2026-08-22T00:31:16Z",
             "owner": "visjs",
             "repo": "vis-graph3d",
             "stars": 354
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 196645438,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T17:01:48Z",
+            "last_commit": "2026-08-22T02:44:49Z",
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 119
@@ -113,7 +113,7 @@
                     "archived": false,
                     "id": 109109615,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T06:16:44Z",
+                    "last_commit": "2026-08-21T19:41:27Z",
                     "owner": "visjs",
                     "repo": "ngx-vis",
                     "stars": 73
@@ -153,7 +153,7 @@
                     "last_commit": "2023-10-19T02:43:51Z",
                     "owner": "neo4j-contrib",
                     "repo": "neovis.js",
-                    "stars": 1787
+                    "stars": 1788
                   }
                 },
                 {
@@ -186,7 +186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:02:50.222Z",
+    "last_updated": "2026-08-22T08:52:46.758Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_id": 196971630,
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
