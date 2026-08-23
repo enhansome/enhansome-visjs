@@ -27,7 +27,7 @@
             "archived": false,
             "id": 197730309,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T04:40:12Z",
+            "last_commit": "2026-08-22T14:52:38Z",
             "owner": "visjs",
             "repo": "vis-timeline",
             "stars": 2548
@@ -186,7 +186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:52:46.758Z",
+    "last_updated": "2026-08-23T08:53:30.327Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_id": 196971630,
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
