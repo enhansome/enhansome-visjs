@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T22:44:46Z",
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2548
+            "stars": 2549
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 196645438,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:08:55Z",
+            "last_commit": "2026-08-24T09:09:21Z",
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 119
@@ -65,6 +65,50 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "timeline-arrows",
+                  "description": "Class to easily draw lines to connect items in the vis Timeline module.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 191589814,
+                    "language": "JavaScript",
+                    "last_commit": "2025-09-27T22:14:14Z",
+                    "owner": "javdome",
+                    "repo": "timeline-arrows",
+                    "stars": 52
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Add-Ons"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "vue-vis-network",
+                  "description": "Integrate vis Network module to your Vue 2 application do draw network diagrams.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 205844241,
+                    "language": "Vue",
+                    "last_commit": "2021-02-25T09:13:08Z",
+                    "owner": "r3code",
+                    "repo": "vue-vis-network",
+                    "stars": 66
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Vue"
+            },
             {
               "children": [
                 {
@@ -101,6 +145,28 @@
               "description": null,
               "node_type": "group",
               "title": "React"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "angular-visjs",
+                  "description": "AngularJS directive module for vis.js components.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20217203,
+                    "language": "JavaScript",
+                    "last_commit": "2023-12-15T20:21:48Z",
+                    "owner": "visjs",
+                    "repo": "angular-visjs",
+                    "stars": 132
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AngularJS"
             },
             {
               "children": [
@@ -180,13 +246,42 @@
           "description": null,
           "node_type": "group",
           "title": "vis.js based libraries"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Ruimdetijd/timeline",
+                  "description": "Slime timeline component",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 467029744,
+                    "language": "TypeScript",
+                    "last_commit": "2023-08-24T08:18:40Z",
+                    "owner": "Ruimdetijd",
+                    "repo": "timeline",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Timeline"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Alternatives"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:08:59.927Z",
+    "last_updated": "2026-08-24T14:36:39.773Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_id": 196971630,
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
