@@ -12,7 +12,7 @@
             "archived": false,
             "id": 197249796,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T22:24:48Z",
+            "last_commit": "2026-08-24T08:17:53Z",
             "owner": "visjs",
             "repo": "vis-network",
             "stars": 3615
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 197730309,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T14:52:38Z",
+            "last_commit": "2026-08-23T22:44:46Z",
             "owner": "visjs",
             "repo": "vis-timeline",
             "stars": 2548
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 197192526,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T00:31:16Z",
+            "last_commit": "2026-08-24T08:52:18Z",
             "owner": "visjs",
             "repo": "vis-graph3d",
             "stars": 354
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 196645438,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T02:44:49Z",
+            "last_commit": "2026-08-24T09:08:55Z",
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 119
@@ -186,7 +186,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T08:53:30.327Z",
+    "last_updated": "2026-08-24T09:08:59.927Z",
     "original_repository": "visjs/awesome-visjs",
     "original_repository_id": 196971630,
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",

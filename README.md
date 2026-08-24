@@ -21,10 +21,10 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,615 | 🐛 346 | 🌐 JavaScript | 📅 2026-08-21 - Display dynamic, automatically organised, customizable network views.
-* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,548 | 🐛 301 | 🌐 JavaScript | 📅 2026-08-22 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-22 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-22 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,615 | 🐛 347 | 🌐 JavaScript | 📅 2026-08-24 - Display dynamic, automatically organised, customizable network views.
+* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,548 | 🐛 301 | 🌐 JavaScript | 📅 2026-08-23 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-24 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
+* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
 ### vis.js based libraries
 
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
