@@ -21,10 +21,10 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,615 | 🐛 347 | 🌐 JavaScript | 📅 2026-08-24 - Display dynamic, automatically organised, customizable network views.
-* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,549 | 🐛 301 | 🌐 JavaScript | 📅 2026-08-23 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-24 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,616 | 🐛 347 | 🌐 JavaScript | 📅 2026-08-26 - Display dynamic, automatically organised, customizable network views.
+* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,549 | 🐛 302 | 🌐 JavaScript | 📅 2026-08-26 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-26 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
+* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
 ### vis.js based libraries
 
@@ -40,7 +40,7 @@
 
 #### React
 
-* [react-graph-vis](https://github.com/crubier/react-graph-vis) ⭐ 992 | 🐛 60 | 🌐 JavaScript | 📅 2023-10-12 - A react component to render NETWORK graphs.
+* [react-graph-vis](https://github.com/crubier/react-graph-vis) ⭐ 992 | 🐛 59 | 🌐 JavaScript | 📅 2023-10-12 - A react component to render NETWORK graphs.
 * [react-graph3d-vis](https://github.com/auquan/react-graph3d-vis) ⭐ 10 | 🐛 42 | 🌐 JavaScript | 📅 2022-12-10 - A react component to create interactive 3d graphs.
 
 #### AngularJS
@@ -49,12 +49,12 @@
 
 #### Angular
 
-* [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 73 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-21 - An angular 5+ vis.js project.
+* [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 73 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-25 - An angular 5+ vis.js project.
 * [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2020-10-22 - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
 
 #### Misc
 
-* [neovis.js](https://github.com/neo4j-contrib/neovis.js) ⭐ 1,788 | 🐛 59 | 🌐 TypeScript | 📅 2023-10-19 - Graph visualizations powered by vis.js with data from Neo4j.
+* [neovis.js](https://github.com/neo4j-contrib/neovis.js) ⭐ 1,790 | 🐛 59 | 🌐 TypeScript | 📅 2023-10-19 - Graph visualizations powered by vis.js with data from Neo4j.
 * [visNetwork](https://github.com/datastorm-open/visNetwork) ⭐ 564 | 🐛 156 | 🌐 JavaScript | 📅 2026-07-15 - R package, using vis.js library for network visualization
 * [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 * [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
