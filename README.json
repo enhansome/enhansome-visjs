@@ -12,11 +12,12 @@
             "archived": false,
             "id": 197249796,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T13:57:26Z",
+            "last_commit": "2026-08-27T19:57:49Z",
             "owner": "visjs",
             "repo": "vis-network",
             "stars": 3618
-          }
+          },
+          "first_seen": "2026-08-28T20:14:41.572Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 197730309,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T00:38:16Z",
+            "last_commit": "2026-08-27T21:15:34Z",
             "owner": "visjs",
             "repo": "vis-timeline",
             "stars": 2549
-          }
+          },
+          "first_seen": "2026-08-28T20:14:41.572Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 197192526,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T05:31:22Z",
+            "last_commit": "2026-08-28T03:46:58Z",
             "owner": "visjs",
             "repo": "vis-graph3d",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T20:14:41.572Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 196645438,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:08:15Z",
+            "last_commit": "2026-08-27T20:31:14Z",
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T20:14:41.572Z"
         },
         {
           "children": [
@@ -80,7 +84,8 @@
                     "owner": "javdome",
                     "repo": "timeline-arrows",
                     "stars": 52
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -102,7 +107,8 @@
                     "owner": "r3code",
                     "repo": "vue-vis-network",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -124,7 +130,8 @@
                     "owner": "crubier",
                     "repo": "react-graph-vis",
                     "stars": 992
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "Auquan",
                     "repo": "react-graph3d-vis",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -161,7 +169,8 @@
                     "owner": "visjs",
                     "repo": "angular-visjs",
                     "stars": 132
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -183,7 +192,8 @@
                     "owner": "visjs",
                     "repo": "ngx-vis",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 },
                 {
                   "node_type": "item",
@@ -198,7 +208,8 @@
                     "owner": "SarAhmed",
                     "repo": "timeline-dep-graph",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -219,8 +230,9 @@
                     "last_commit": "2023-10-19T02:43:51Z",
                     "owner": "neo4j-contrib",
                     "repo": "neovis.js",
-                    "stars": 1790
-                  }
+                    "stars": 1791
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 },
                 {
                   "node_type": "item",
@@ -235,7 +247,8 @@
                     "owner": "datastorm-open",
                     "repo": "visNetwork",
                     "stars": 564
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -264,7 +277,8 @@
                     "owner": "Ruimdetijd",
                     "repo": "timeline",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:14:41.572Z"
                 }
               ],
               "description": null,
@@ -281,7 +295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:09:03.275Z",
+    "last_updated": "2026-08-28T20:14:41.572Z",
     "original_repository_info": {
       "archived": false,
       "id": 196971630,
