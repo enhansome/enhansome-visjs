@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":dizzy: Display dynamic, automatically organised, customizable network views.",
+            "homepage": "https://visjs.github.io/vis-network/",
             "id": 197249796,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:57:49Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:15:44Z",
+            "open_issues": 347,
             "owner": "visjs",
             "repo": "vis-network",
-            "stars": 3618
+            "stars": 3618,
+            "topics": [
+              "diagram",
+              "hacktoberfest",
+              "network",
+              "visjs"
+            ]
           },
           "first_seen": "2026-08-28T20:14:41.572Z"
         },
@@ -26,12 +36,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.",
+            "homepage": "https://visjs.github.io/vis-timeline/",
             "id": 197730309,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:15:34Z",
+            "open_issues": 302,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2549
+            "stars": 2549,
+            "topics": [
+              "chart",
+              "hacktoberfest",
+              "timeline",
+              "vis"
+            ]
           },
           "first_seen": "2026-08-28T20:14:41.572Z"
         },
@@ -42,12 +62,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.",
+            "homepage": "https://visjs.github.io/vis-graph3d/",
             "id": 197192526,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:46:58Z",
+            "open_issues": 5,
             "owner": "visjs",
             "repo": "vis-graph3d",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "3d",
+              "chart",
+              "hacktoberfest",
+              "vis"
+            ]
           },
           "first_seen": "2026-08-28T20:14:41.572Z"
         },
@@ -58,12 +88,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗄️ Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.",
+            "homepage": "https://visjs.github.io/vis-data/",
             "id": 196645438,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-27T20:31:14Z",
+            "open_issues": 10,
             "owner": "visjs",
             "repo": "vis-data",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:14:41.572Z"
         },
@@ -78,12 +113,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Plugin for vis-timeline to easily connect items with lines.",
+                    "homepage": "https://javdome.github.io/timeline-arrows/",
                     "id": 191589814,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-09-27T22:14:14Z",
+                    "open_issues": 1,
                     "owner": "javdome",
                     "repo": "timeline-arrows",
-                    "stars": 52
+                    "stars": 52,
+                    "topics": [
+                      "timeline-arrows",
+                      "vis-timeline"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -101,12 +144,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Vue 2 integration with https://github.com/visjs/vis-network/",
+                    "homepage": null,
                     "id": 205844241,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2021-02-25T09:13:08Z",
+                    "open_issues": 10,
                     "owner": "r3code",
                     "repo": "vue-vis-network",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": [
+                      "diagram-generator",
+                      "graph-visualization",
+                      "javascript",
+                      "vis-network",
+                      "visjs",
+                      "vue",
+                      "vuejs",
+                      "vuejs-components"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -124,12 +181,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A react component to render nice graphs using vis.js",
+                    "homepage": "http://crubier.github.io/react-graph-vis/",
                     "id": 33658802,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-10-12T09:43:01Z",
+                    "open_issues": 59,
                     "owner": "crubier",
                     "repo": "react-graph-vis",
-                    "stars": 992
+                    "stars": 992,
+                    "topics": [
+                      "graph",
+                      "javascript",
+                      "react",
+                      "rendered-graphs",
+                      "visualisation"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 },
@@ -140,12 +208,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A React Component to create interactive 3d graphs using vis.js",
+                    "homepage": null,
                     "id": 158399297,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-10T03:02:57Z",
+                    "open_issues": 42,
                     "owner": "Auquan",
                     "repo": "react-graph3d-vis",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -163,12 +236,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AngularJS directive module for vis.js components",
+                    "homepage": "http://visjs.github.io/angular-visjs",
                     "id": 20217203,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-12-15T20:21:48Z",
+                    "open_issues": 34,
                     "owner": "visjs",
                     "repo": "angular-visjs",
-                    "stars": 132
+                    "stars": 132,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -186,12 +264,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An angular 5+ vis.js project",
+                    "homepage": "https://visjs.github.io/ngx-vis",
                     "id": 109109615,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T06:07:23Z",
+                    "open_issues": 5,
                     "owner": "visjs",
                     "repo": "ngx-vis",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "hacktoberfest",
+                      "vis",
+                      "vis-js",
+                      "vis-network",
+                      "vis-timeline"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 },
@@ -202,12 +291,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dynamic rollout visualization library.",
+                    "homepage": null,
                     "id": 297938445,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-10-22T09:09:20Z",
+                    "open_issues": 0,
                     "owner": "SarAhmed",
                     "repo": "timeline-dep-graph",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "dependency-graph",
+                      "rollouts",
+                      "timeline",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -225,12 +324,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.",
+                    "homepage": null,
                     "id": 55628517,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-19T02:43:51Z",
+                    "open_issues": 59,
                     "owner": "neo4j-contrib",
                     "repo": "neovis.js",
-                    "stars": 1791
+                    "stars": 1791,
+                    "topics": [
+                      "cypher",
+                      "data-visualization",
+                      "graph-visualization",
+                      "javascript",
+                      "neo4j",
+                      "network-visualization",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 },
@@ -241,12 +353,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "R package, using vis.js library for network visualization",
+                    "homepage": null,
                     "id": 34519310,
                     "language": "JavaScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-15T13:52:15Z",
+                    "open_issues": 156,
                     "owner": "datastorm-open",
                     "repo": "visNetwork",
-                    "stars": 564
+                    "stars": 564,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -271,12 +388,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualize temporal data",
+                    "homepage": "https://ruimdetijd.github.io/timeline/",
                     "id": 467029744,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-08-24T08:18:40Z",
+                    "open_issues": 0,
                     "owner": "Ruimdetijd",
                     "repo": "timeline",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:14:41.572Z"
                 }
@@ -295,15 +417,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:14:41.572Z",
+    "last_updated": "2026-08-29T04:55:43.372Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🕶️ A curated list of resources around vis.js",
+      "homepage": "https://github.com/visjs/awesome-visjs/blob/master/README.md",
       "id": 196971630,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2024-08-17T10:02:21Z",
+      "open_issues": 5,
       "owner": "visjs",
       "repo": "awesome-visjs",
-      "stars": 167
+      "stars": 167,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "vis",
+        "vis-js",
+        "vis-network",
+        "vis-timeline"
+      ]
     },
     "original_repository_sha": "51275b286687161915b631d94ecabe7ca5926034",
     "enhanced_repository": "enhansome/enhansome-visjs",
