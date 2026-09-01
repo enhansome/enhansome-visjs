@@ -45,7 +45,7 @@
             "open_issues": 302,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2548,
+            "stars": 2550,
             "topics": [
               "chart",
               "hacktoberfest",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:13:52.868Z",
+    "last_updated": "2026-09-01T13:33:11.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
