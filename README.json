@@ -15,8 +15,8 @@
             "id": 197249796,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T02:02:29Z",
-            "open_issues": 349,
+            "last_commit": "2026-09-03T03:07:41Z",
+            "open_issues": 348,
             "owner": "visjs",
             "repo": "vis-network",
             "stars": 3620,
@@ -41,7 +41,7 @@
             "id": 197730309,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T21:15:34Z",
+            "last_commit": "2026-09-02T23:34:13Z",
             "open_issues": 303,
             "owner": "visjs",
             "repo": "vis-timeline",
@@ -269,7 +269,7 @@
                     "id": 109109615,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T06:07:23Z",
+                    "last_commit": "2026-09-03T07:40:03Z",
                     "open_issues": 5,
                     "owner": "visjs",
                     "repo": "ngx-vis",
@@ -333,7 +333,7 @@
                     "open_issues": 59,
                     "owner": "neo4j-contrib",
                     "repo": "neovis.js",
-                    "stars": 1791,
+                    "stars": 1792,
                     "topics": [
                       "cypher",
                       "data-visualization",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:49:46.828Z",
+    "last_updated": "2026-09-03T12:53:10.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
