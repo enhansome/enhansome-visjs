@@ -15,7 +15,7 @@
             "id": 197249796,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T08:44:01Z",
+            "last_commit": "2026-09-07T04:55:56Z",
             "open_issues": 349,
             "owner": "visjs",
             "repo": "vis-network",
@@ -67,8 +67,8 @@
             "id": 197192526,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T09:32:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-07T04:48:24Z",
+            "open_issues": 5,
             "owner": "visjs",
             "repo": "vis-graph3d",
             "stars": 354,
@@ -93,7 +93,7 @@
             "id": 196645438,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-04T22:16:06Z",
+            "last_commit": "2026-09-07T05:14:14Z",
             "open_issues": 10,
             "owner": "visjs",
             "repo": "vis-data",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:11:42.386Z",
+    "last_updated": "2026-09-07T14:18:53.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
