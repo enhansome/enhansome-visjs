@@ -15,7 +15,7 @@
             "id": 197249796,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T08:11:22Z",
+            "last_commit": "2026-09-09T10:03:12Z",
             "open_issues": 350,
             "owner": "visjs",
             "repo": "vis-network",
@@ -41,11 +41,11 @@
             "id": 197730309,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T16:33:35Z",
+            "last_commit": "2026-09-09T06:13:49Z",
             "open_issues": 303,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2551,
+            "stars": 2552,
             "topics": [
               "chart",
               "hacktoberfest",
@@ -67,7 +67,7 @@
             "id": 197192526,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T10:30:26Z",
+            "last_commit": "2026-09-09T09:41:05Z",
             "open_issues": 6,
             "owner": "visjs",
             "repo": "vis-graph3d",
@@ -93,7 +93,7 @@
             "id": 196645438,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-08T12:06:11Z",
+            "last_commit": "2026-09-09T10:54:31Z",
             "open_issues": 10,
             "owner": "visjs",
             "repo": "vis-data",
@@ -207,7 +207,7 @@
                   "description": "A react component to create interactive 3d graphs.",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "A React Component to create interactive 3d graphs using vis.js",
                     "homepage": null,
                     "id": 158399297,
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:55:20.482Z",
+    "last_updated": "2026-09-09T13:00:57.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",

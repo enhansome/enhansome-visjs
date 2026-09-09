@@ -21,10 +21,10 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,623 | 🐛 350 | 🌐 JavaScript | 📅 2026-09-08 - Display dynamic, automatically organised, customizable network views.
-* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,551 | 🐛 303 | 🌐 JavaScript | 📅 2026-09-07 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-08 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-08 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,623 | 🐛 350 | 🌐 JavaScript | 📅 2026-09-09 - Display dynamic, automatically organised, customizable network views.
+* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,552 | 🐛 303 | 🌐 JavaScript | 📅 2026-09-09 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 354 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-09 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
+* [vis-data](https://github.com/visjs/vis-data) ⭐ 119 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-09 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
 ### vis.js based libraries
 
@@ -41,7 +41,7 @@
 #### React
 
 * [react-graph-vis](https://github.com/crubier/react-graph-vis) ⭐ 992 | 🐛 59 | 🌐 JavaScript | 📅 2023-10-12 - A react component to render NETWORK graphs.
-* [react-graph3d-vis](https://github.com/auquan/react-graph3d-vis) ⭐ 10 | 🐛 42 | 🌐 JavaScript | 📅 2022-12-10 - A react component to create interactive 3d graphs.
+* [react-graph3d-vis](https://github.com/auquan/react-graph3d-vis) ⚠️ Archived - A react component to create interactive 3d graphs.
 
 #### AngularJS
 
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
