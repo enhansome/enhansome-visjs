@@ -15,11 +15,11 @@
             "id": 197249796,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:04:24Z",
-            "open_issues": 349,
+            "last_commit": "2026-09-14T00:33:23Z",
+            "open_issues": 350,
             "owner": "visjs",
             "repo": "vis-network",
-            "stars": 3626,
+            "stars": 3627,
             "topics": [
               "diagram",
               "hacktoberfest",
@@ -45,7 +45,7 @@
             "open_issues": 303,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2554,
+            "stars": 2555,
             "topics": [
               "chart",
               "hacktoberfest",
@@ -67,11 +67,11 @@
             "id": 197192526,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T03:28:36Z",
+            "last_commit": "2026-09-14T05:58:59Z",
             "open_issues": 5,
             "owner": "visjs",
             "repo": "vis-graph3d",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "3d",
               "chart",
@@ -93,11 +93,11 @@
             "id": 196645438,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-13T13:05:50Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-14T04:39:55Z",
+            "open_issues": 10,
             "owner": "visjs",
             "repo": "vis-data",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:41.572Z"
@@ -269,7 +269,7 @@
                     "id": 109109615,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T20:53:05Z",
+                    "last_commit": "2026-09-14T09:55:32Z",
                     "open_issues": 6,
                     "owner": "visjs",
                     "repo": "ngx-vis",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:21:15.828Z",
+    "last_updated": "2026-09-14T15:05:17.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
