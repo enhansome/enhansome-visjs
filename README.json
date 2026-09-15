@@ -45,7 +45,7 @@
             "open_issues": 303,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2555,
+            "stars": 2556,
             "topics": [
               "chart",
               "hacktoberfest",
@@ -67,7 +67,7 @@
             "id": 197192526,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T05:58:59Z",
+            "last_commit": "2026-09-14T18:56:07Z",
             "open_issues": 5,
             "owner": "visjs",
             "repo": "vis-graph3d",
@@ -93,7 +93,7 @@
             "id": 196645438,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-14T04:39:55Z",
+            "last_commit": "2026-09-14T21:24:42Z",
             "open_issues": 10,
             "owner": "visjs",
             "repo": "vis-data",
@@ -269,8 +269,8 @@
                     "id": 109109615,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-14T09:55:32Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-09-15T11:29:09Z",
+                    "open_issues": 7,
                     "owner": "visjs",
                     "repo": "ngx-vis",
                     "stars": 73,
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:05:17.151Z",
+    "last_updated": "2026-09-15T13:41:03.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
