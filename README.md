@@ -22,7 +22,7 @@
 ## Libraries
 
 * [vis-network](https://github.com/visjs/vis-network) ⭐ 3,631 | 🐛 350 | 🌐 JavaScript | 📅 2026-09-20 - Display dynamic, automatically organised, customizable network views.
-* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,559 | 🐛 305 | 🌐 JavaScript | 📅 2026-09-20 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,559 | 🐛 304 | 🌐 JavaScript | 📅 2026-09-20 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 * [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 355 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-21 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
 * [vis-data](https://github.com/visjs/vis-data) ⭐ 120 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-22 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
