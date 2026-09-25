@@ -21,10 +21,10 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,631 | 🐛 350 | 🌐 JavaScript | 📅 2026-09-20 - Display dynamic, automatically organised, customizable network views.
-* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,559 | 🐛 304 | 🌐 JavaScript | 📅 2026-09-20 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 355 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-21 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-* [vis-data](https://github.com/visjs/vis-data) ⭐ 120 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-22 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,631 | 🐛 350 | 🌐 JavaScript | 📅 2026-09-25 - Display dynamic, automatically organised, customizable network views.
+* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,559 | 🐛 304 | 🌐 JavaScript | 📅 2026-09-25 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 355 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-25 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
+* [vis-data](https://github.com/visjs/vis-data) ⭐ 120 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-25 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
 ### vis.js based libraries
 
@@ -49,7 +49,7 @@
 
 #### Angular
 
-* [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 73 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-24 - An angular 5+ vis.js project.
+* [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 73 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-25 - An angular 5+ vis.js project.
 * [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2020-10-22 - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
 
 #### Misc
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
