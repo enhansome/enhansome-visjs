@@ -21,7 +21,7 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,632 | 🐛 351 | 🌐 JavaScript | 📅 2026-10-01 - Display dynamic, automatically organised, customizable network views.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,632 | 🐛 351 | 🌐 JavaScript | 📅 2026-10-02 - Display dynamic, automatically organised, customizable network views.
 * [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,565 | 🐛 305 | 🌐 JavaScript | 📅 2026-10-01 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 * [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 355 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-01 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
 * [vis-data](https://github.com/visjs/vis-data) ⭐ 120 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-01 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
@@ -138,8 +138,8 @@ See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically, it comes d
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-License holders are [all contributors](http://github.com/visjs/awesome-visjs/graphs/contributors) ⭐ 167 | 🐛 5 | 📅 2024-08-17.
+License holders are [all contributors](http://github.com/visjs/awesome-visjs/graphs/contributors).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
