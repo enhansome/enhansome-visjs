@@ -42,7 +42,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T17:49:53Z",
-            "open_issues": 305,
+            "open_issues": 306,
             "owner": "visjs",
             "repo": "vis-timeline",
             "stars": 2565,
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:11:57.662Z",
+    "last_updated": "2026-10-03T13:31:18.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
