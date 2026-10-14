@@ -19,7 +19,7 @@
             "open_issues": 351,
             "owner": "visjs",
             "repo": "vis-network",
-            "stars": 3631,
+            "stars": 3630,
             "topics": [
               "diagram",
               "hacktoberfest",
@@ -67,7 +67,7 @@
             "id": 197192526,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:10:33Z",
+            "last_commit": "2026-10-13T23:15:13Z",
             "open_issues": 5,
             "owner": "visjs",
             "repo": "vis-graph3d",
@@ -93,8 +93,8 @@
             "id": 196645438,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-13T14:16:43Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-13T20:22:46Z",
+            "open_issues": 10,
             "owner": "visjs",
             "repo": "vis-data",
             "stars": 120,
@@ -269,7 +269,7 @@
                     "id": 109109615,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T19:46:32Z",
+                    "last_commit": "2026-10-13T17:28:46Z",
                     "open_issues": 8,
                     "owner": "visjs",
                     "repo": "ngx-vis",
@@ -333,7 +333,7 @@
                     "open_issues": 59,
                     "owner": "neo4j-contrib",
                     "repo": "neovis.js",
-                    "stars": 1791,
+                    "stars": 1792,
                     "topics": [
                       "cypher",
                       "data-visualization",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T16:07:31.538Z",
+    "last_updated": "2026-10-14T13:51:02.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
