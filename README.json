@@ -15,7 +15,7 @@
             "id": 197249796,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:08:07Z",
+            "last_commit": "2026-10-17T20:27:37Z",
             "open_issues": 351,
             "owner": "visjs",
             "repo": "vis-network",
@@ -45,7 +45,7 @@
             "open_issues": 307,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2568,
+            "stars": 2569,
             "topics": [
               "chart",
               "hacktoberfest",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:16:02.465Z",
+    "last_updated": "2026-10-18T12:39:53.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
