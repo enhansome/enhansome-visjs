@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T17:49:42Z",
-            "open_issues": 344,
+            "open_issues": 345,
             "owner": "visjs",
             "repo": "vis-network",
             "stars": 3635,
@@ -269,7 +269,7 @@
                     "id": 109109615,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-04T10:03:05Z",
+                    "last_commit": "2026-11-05T03:39:06Z",
                     "open_issues": 10,
                     "owner": "visjs",
                     "repo": "ngx-vis",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:25:15.648Z",
+    "last_updated": "2026-11-05T16:33:31.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
