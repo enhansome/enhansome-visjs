@@ -15,8 +15,8 @@
             "id": 197249796,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T01:48:24Z",
-            "open_issues": 346,
+            "last_commit": "2026-11-16T12:00:27Z",
+            "open_issues": 347,
             "owner": "visjs",
             "repo": "vis-network",
             "stars": 3641,
@@ -41,11 +41,11 @@
             "id": 197730309,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T01:50:10Z",
-            "open_issues": 305,
+            "last_commit": "2026-11-16T15:35:39Z",
+            "open_issues": 307,
             "owner": "visjs",
             "repo": "vis-timeline",
-            "stars": 2583,
+            "stars": 2584,
             "topics": [
               "chart",
               "hacktoberfest",
@@ -67,11 +67,11 @@
             "id": 197192526,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-15T06:30:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-16T12:18:13Z",
+            "open_issues": 6,
             "owner": "visjs",
             "repo": "vis-graph3d",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "3d",
               "chart",
@@ -93,11 +93,11 @@
             "id": 196645438,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-15T05:44:54Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-16T06:42:03Z",
+            "open_issues": 12,
             "owner": "visjs",
             "repo": "vis-data",
-            "stars": 121,
+            "stars": 122,
             "topics": []
           },
           "first_seen": "2026-08-28T20:14:41.572Z"
@@ -122,7 +122,7 @@
                     "open_issues": 3,
                     "owner": "javdome",
                     "repo": "timeline-arrows",
-                    "stars": 52,
+                    "stars": 53,
                     "topics": [
                       "timeline-arrows",
                       "vis-timeline"
@@ -300,7 +300,7 @@
                     "open_issues": 0,
                     "owner": "SarAhmed",
                     "repo": "timeline-dep-graph",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "dependency-graph",
                       "rollouts",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:43:27.282Z",
+    "last_updated": "2026-11-16T18:41:10.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️ A curated list of resources around vis.js",
@@ -429,7 +429,7 @@
       "open_issues": 5,
       "owner": "visjs",
       "repo": "awesome-visjs",
-      "stars": 167,
+      "stars": 168,
       "topics": [
         "awesome",
         "awesome-list",

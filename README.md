@@ -21,16 +21,16 @@
 
 ## Libraries
 
-* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,641 | 🐛 346 | 🌐 JavaScript | 📅 2026-11-15 - Display dynamic, automatically organised, customizable network views.
-* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,583 | 🐛 305 | 🌐 JavaScript | 📅 2026-11-15 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 356 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-15 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-* [vis-data](https://github.com/visjs/vis-data) ⭐ 121 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-15 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+* [vis-network](https://github.com/visjs/vis-network) ⭐ 3,641 | 🐛 347 | 🌐 JavaScript | 📅 2026-11-16 - Display dynamic, automatically organised, customizable network views.
+* [vis-timeline](https://github.com/visjs/vis-timeline) ⭐ 2,584 | 🐛 307 | 🌐 JavaScript | 📅 2026-11-16 - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+* [vis-graph3d](https://github.com/visjs/vis-graph3d) ⭐ 357 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-16 - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
+* [vis-data](https://github.com/visjs/vis-data) ⭐ 122 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-16 - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
 ### vis.js based libraries
 
 #### Add-Ons
 
-* [timeline-arrows](https://github.com/javdome/timeline-arrows) ⭐ 52 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-27 - Class to easily draw lines to connect items in the vis Timeline module.
+* [timeline-arrows](https://github.com/javdome/timeline-arrows) ⭐ 53 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-27 - Class to easily draw lines to connect items in the vis Timeline module.
 
 #### Vue
 
@@ -50,7 +50,7 @@
 #### Angular
 
 * [ngx-vis](https://github.com/visjs/ngx-vis) ⭐ 72 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-14 - An angular 5+ vis.js project.
-* [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) ⭐ 13 | 🐛 0 | 🌐 TypeScript | 📅 2020-10-22 - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
+* [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2020-10-22 - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
 
 #### Misc
 
@@ -142,4 +142,4 @@ License holders are [all contributors](http://github.com/visjs/awesome-visjs/gra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
